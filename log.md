@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 **My One stop resource for next 100 days** : https://replit.com/learn/code-with-harry-100-doc/hub
+**Problem practice resourse for next 100 days** : https://github.com/Tom-1508/100-plus-python-coding-problems-with-solutions
 
 ### Day 1: January 11, 2024, Thursday
 
