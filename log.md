@@ -32,3 +32,16 @@
 **Thoughts:** Today was more of the overview and possibilities of what i will/can build through learning Python.
 
 **Link to work:** https://replit.com/@TamalMajumdar/02-Day2-Application-of-Python-1
+
+
+### Day 3: January 13, 2024, Saturday
+
+**Today's Progress**: 
+1) Today I have gained an overview and advantages modules and pip in python.
+2) There are two kinds of module : i) built-in  ii) external.
+3) learned about pip commands and usage of modules. 
+
+**Thoughts:** Today was more of the overview and possibilities of what i will/can build through modules and pip.
+
+**Link to work:** https://replit.com/@TamalMajumdar/03-Day3-Modules-and-Pip#main.py
+
