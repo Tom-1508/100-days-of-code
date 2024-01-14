@@ -52,7 +52,7 @@
 1) I wrote my first ever program in python ( print("Hello world!"))
 2) done the Quick quiz given by Harry ( print your fav poem )
 
-**Thoughts:** Today I tasted the real sense of programming. Excited to to learn more.
+**Thoughts:** Today I tasted the real sense of programming. Excited to learn morein this journey.
 
 **Link to work:** https://replit.com/@TamalMajumdar/04-Day4-Our-First-Program-1#main.py
 
