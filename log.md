@@ -45,3 +45,23 @@
 
 **Link to work:** https://replit.com/@TamalMajumdar/03-Day3-Modules-and-Pip#main.py
 
+
+### Day 4: January 14, 2024, Sunday
+
+**Today's Progress**: 
+1) I wrote my first ever program in python ( print("Hello world!"))
+2) done the Quick quiz given by Harry ( print your fav poem )
+
+**Thoughts:** Today I tasted the real sense of programming. Excited to to learn more.
+
+**Link to work:** https://replit.com/@TamalMajumdar/04-Day4-Our-First-Program-1#main.py
+
+
+### Day 5: January 15, 2024, monday
+
+**Today's Progress**: 
+
+
+**Thoughts:** 
+
+**Link to work:** https://replit.com/@TamalMajumdar/05-Day5-Comments-and-Print#main.py
