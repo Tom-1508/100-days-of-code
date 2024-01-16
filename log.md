@@ -74,3 +74,23 @@
 **Thoughts:** It was an detailed class on these topics.
 
 **Link to work:** https://replit.com/@TamalMajumdar/05-Day5-Comments-and-Print-1
+
+
+### Day 6: January 16, 2024, Tuesday
+
+*Today's Progress*: 
+1) Learned about variables : Variable is like a container that holds data.
+2) Learned about data type : Data type specifies the type of value a variable holds
+3) Learned about different kinds of Data types :
+      i) Numeric data: int, float, complex
+           a) int: 3, -8, 0
+           b) float: 7.349, -9.0, 0.0000001
+           c) complex: 6 + 2i
+      ii) Text data: str ---> str: "Hello World!!!", "Python Programming"
+     iii) Boolean data: Boolean data consists of values True or False.
+      iv) Sequenced data: list, tuple (just an introduction)
+       v) Mapped data: dict (just an introduction)
+   
+*Thoughts:* I am enjoying the journey. but i want me to be more responsible from the next day & maintain the momentum. #beleiveInYourself
+
+*Link to work:* https://replit.com/@TamalMajumdar/06-Day6-Variables-and-Data-Types-1
