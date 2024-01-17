@@ -94,3 +94,15 @@
 *Thoughts:* I am enjoying the journey. but i want me to be more responsible from the next day & maintain the momentum. #beleiveInYourself
 
 *Link to work:* https://replit.com/@TamalMajumdar/06-Day6-Variables-and-Data-Types-1
+
+
+### Day 7: January 17, 2024, Wednesday
+
+**Today's Progress:** 
+1) Learned about Opearators.
+2) Today we have explored The Arithmetic operators.
+3) Successfully completed the the Challenge by creating a simple calculator. 
+
+**Thoughts:** Kept the promise of keeping the momentum. Just feeling confident. Thanks to God. Grateful. Looking forward.
+
+**Link to work:** https://replit.com/@TamalMajumdar/07-Day7-Exercise-1-Create-a-Calculator-1
