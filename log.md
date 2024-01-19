@@ -114,7 +114,7 @@
 **Link to work:** https://replit.com/@TamalMajumdar/08-Day8-Exercise-1-Create-a-Calculator-Solution
 
 
-### Day 7: January 19, 2024, Friday
+### Day 9: January 19, 2024, Friday
 
 **Today's Progress:**  
 1) learned about Typecasting : conversion of one data type to another one.
