@@ -106,3 +106,23 @@
 **Thoughts:** Kept the promise of keeping the momentum. Just feeling confident. Thanks to God. Grateful. Looking forward.
 
 **Link to work:** https://replit.com/@TamalMajumdar/07-Day7-Exercise-1-Create-a-Calculator-1
+
+### Day 8: January 18, 2024, Thursday
+
+**Update:** Just did the calculatir solution.
+
+**Link to work:** https://replit.com/@TamalMajumdar/08-Day8-Exercise-1-Create-a-Calculator-Solution
+
+
+### Day 7: January 19, 2024, Friday
+
+**Today's Progress:**  
+1) learned about Typecasting : conversion of one data type to another one.
+2) 2 kinds of typecasting :
+    i) explicit
+     ii) implicit
+
+**Thoughts:** Consistency is key & I could feel that a little bit 😍.
+
+**Link to work:** https://replit.com/@TamalMajumdar/09-Day9-Typecasting-in-Python-1#main.py
+
