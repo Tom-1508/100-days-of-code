@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+![YourHappyWorkplaceWendyConradGIF](https://github.com/Tom-1508/100-days-of-code/assets/125782688/8dd40dce-057b-4c2a-8de0-ad0411e6f827)# 100 Days Of Code - Log
 
 **My One stop resource for next 100 days** : https://replit.com/learn/code-with-harry-100-doc/hub
 **Problem practice resourse for next 100 days** : https://github.com/Tom-1508/100-plus-python-coding-problems-with-solutions
@@ -137,3 +137,18 @@
 
 **Link to work:** https://replit.com/@TamalMajumdar/10-Day10-Taking-User-Input
 
+
+### Day 11: January 21, 2024, Sunday 
+
+*Today's Progress:* 
+1) Today I learned about what are strings.
+2) learned about multiline strings.
+3) Accessing Characters of a String.
+4) Looping through the string:
+      for character in name:
+            print(character)
+   
+
+**Thoughts: ** trying my best to better at problem solving. Today's Quote : "Consistency is the key 🙌".
+
+*Link to work:* https://replit.com/@TamalMajumdar/11-Day11-Strings-1#main.py
