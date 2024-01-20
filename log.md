@@ -126,3 +126,14 @@
 
 **Link to work:** https://replit.com/@TamalMajumdar/09-Day9-Typecasting-in-Python-1#main.py
 
+
+### Day 10: January 20, 2024, Saturday 
+
+**Today's Progress:** 
+1) Today I learned about how to take user input.
+2) by using input() function, we generally take string as input. But with the help of TypeCasting we can take int,float input etc.
+
+**Thoughts: ** I am committed and I am really feeling proud of myself. I am currently started reading "Can't Hurt Me' by David Goggins. I have learned about the importance of Hard Work as it's the absolute basement of one's personality. Grateful.
+
+**Link to work:** https://replit.com/@TamalMajumdar/10-Day10-Taking-User-Input
+
