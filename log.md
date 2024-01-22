@@ -152,3 +152,22 @@
 **Thoughts: ** trying my best to better at problem solving. Today's Quote : "Consistency is the key 🙌".
 
 *Link to work:* https://replit.com/@TamalMajumdar/11-Day11-Strings-1#main.py
+
+
+### Day 12: January 22, 2024, Monday 
+
+*Today's Progress:* 
+1) Today I learned about String Slicing & Operations on String.
+2) Topics are :
+         i) Length of a String (len())
+         ii) String as an array
+         iii) Loop through a String:
+                                     alphabets = "ABCDE"
+                                     for i in alphabets:
+                                            print(i)
+
+
+**Thoughts: ** I am fully committed and inspired to build real life projects with python. 🙌
+
+*Link to work:* https://replit.com/@TamalMajumdar/12-Day12-Strings-Slicing
+
