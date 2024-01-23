@@ -171,3 +171,14 @@
 
 *Link to work:* https://replit.com/@TamalMajumdar/12-Day12-Strings-Slicing
 
+
+### Day 13: January 23, 2024, Tuesday 
+
+**Today's Progress:** 
+1) Today I learned about different kinds of operation of strings.
+2) like upper() , strip() , split() , capitalize() etc.
+
+
+**Thoughts:** Grateful for this journey 🙏.
+
+**Link to work:** https://replit.com/@TamalMajumdar/13-Day13-String-Methods
