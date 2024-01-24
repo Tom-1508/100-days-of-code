@@ -182,3 +182,24 @@
 **Thoughts:** Grateful for this journey 🙏.
 
 **Link to work:** https://replit.com/@TamalMajumdar/13-Day13-String-Methods
+
+
+### Day 14: January 24, 2024, wednesday 
+
+**Today's Progress:** 
+1) Today I learned about If-else statement & its application.
+
+
+**Thoughts:** I got derailed. but happy to be back instantly
+
+**Link to work:** https://replit.com/@TamalMajumdar/14-Day14-If-Else-Conditionals-1
+
+
+### Day 15: January 25, 2024, Thursday 
+
+**Today's Progress:** 
+
+
+**Thoughts:**
+
+**Link to work:**
