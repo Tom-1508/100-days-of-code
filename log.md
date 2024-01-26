@@ -198,8 +198,19 @@
 ### Day 15: January 25, 2024, Thursday 
 
 **Today's Progress:** 
+1) Today I have developed a "greetings program" by importing an in-built time module, where it will greet me (in real time) good morning -  good afternoon - good evening  
 
 
-**Thoughts:**
+**Thoughts:** going through a blury phase but i am clear about my goal:--> 100 days of code and will continue to do it at any cost. Grinding & pushing my limit. 
 
-**Link to work:**
+**Link to work:** https://replit.com/@TamalMajumdar/15-Day15-Exercise-2-Good-Morning-Sir-2#main.py
+
+
+### Day 16: January 26, 2024, Friday 
+
+*Today's Progress:* 
+
+
+*Thoughts:*
+
+*Link to work:*
