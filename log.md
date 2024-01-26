@@ -208,9 +208,11 @@
 
 ### Day 16: January 26, 2024, Friday 
 
-*Today's Progress:* 
+**Today's Progress:** 
+1) Today I have learned about match case (it's been added from python 3.10 onwards).
+2) Match case is beng used as control flow statement i.e. which controls the flow of the program. It's like if-else statements.
 
 
-*Thoughts:*
+**Thoughts:** Just committed. Thats it. grateful 🙏❤️.
 
-*Link to work:*
+**Link to work:** https://replit.com/@TamalMajumdar/16-Day-16-Match-Case-1
