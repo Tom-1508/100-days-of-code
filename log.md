@@ -216,3 +216,18 @@
 **Thoughts:** Just committed. Thats it. grateful 🙏❤️.
 
 **Link to work:** https://replit.com/@TamalMajumdar/16-Day-16-Match-Case-1
+
+
+### Day 17: January 27, 2024, Saturday
+
+*Today's Progress:*
+1) Today I have learned about loops.
+2) There are mainly 2 kinds of loop : 1) While loop  2) For loop
+3) Today I code the for loop.
+
+
+*Thoughts:* Beleiving in the Quote "Stay Hard" by David Goggins.
+
+*Link to work:* https://replit.com/@TamalMajumdar/17-Day17-For-Loops
+
+
