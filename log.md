@@ -231,3 +231,21 @@
 *Link to work:* https://replit.com/@TamalMajumdar/17-Day17-For-Loops
 
 
+### Day 18: January 28, 2024, Sunday
+
+**Today's Progress:**
+1) learned about While and do-while loop.
+
+
+**Thoughts:** getiing hard . but i am harder.
+
+**Link to work:** https://replit.com/@TamalMajumdar/18-Day18-While-Loops-1
+
+
+### Day 19: January 29, 2024, Monday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
