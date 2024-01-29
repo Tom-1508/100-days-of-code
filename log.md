@@ -245,7 +245,10 @@
 ### Day 19: January 29, 2024, Monday
 
 **Today's Progress:**
+1) Today I leaned about two most important topic : break tatement and continue statement
 
-**Thoughts:**
+**Thoughts:** "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill 🚀
 
-**Link to work:**
+**Link to work:** https://replit.com/@TamalMajumdar/19-Day-19-break-and-continue-1#main.py
+
+
