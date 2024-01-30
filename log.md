@@ -265,3 +265,14 @@
 **Link to work:** https://replit.com/@TamalMajumdar/20-Day20-Functions-1
 
 
+
+### Day 21: January 31, 2024, Wednesday
+
+**Today's Progress:**
+1) Today I have learned about how to pass default and bulk Function Arguments.
+
+**Thoughts:** "You have to be willing to go to war with yourself and create a whole new identity." - David Goggins
+
+**Link to work:** https://replit.com/@TamalMajumdar/21-Day-21-Function-Arguments-1
+
+
