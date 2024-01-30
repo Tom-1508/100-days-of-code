@@ -252,3 +252,16 @@
 **Link to work:** https://replit.com/@TamalMajumdar/19-Day-19-break-and-continue-1#main.py
 
 
+### Day 20: January 30, 2024, Tuesday
+
+**Today's Progress:**
+1) Today I have learned about functions.
+2) There are two kinds of functions : built in and user defined
+3) learned and understood about how to define an user defined functions and calling that functions.
+
+
+**Thoughts:** "Stay hard" - David Goggins
+
+**Link to work:** https://replit.com/@TamalMajumdar/20-Day20-Functions-1
+
+
