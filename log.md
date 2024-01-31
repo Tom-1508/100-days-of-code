@@ -276,3 +276,15 @@
 **Link to work:** https://replit.com/@TamalMajumdar/21-Day-21-Function-Arguments-1
 
 
+### Day 22: Feb 1, 2024, Thursday
+
+**Today's Progress:**
+1) Today I have learned about lists
+2) Learned about List indexing, list comprehension.
+
+
+**Thoughts:** Stay hard
+
+**Link to work:** https://replit.com/@TamalMajumdar/22-Day-22-Introduction-to-Lists-1
+
+
