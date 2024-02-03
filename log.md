@@ -288,3 +288,25 @@
 **Link to work:** https://replit.com/@TamalMajumdar/22-Day-22-Introduction-to-Lists-1
 
 
+### Day 23: Feb 2, 2024, Friday
+
+**Today's Progress:** 
+1) Today I learned about how to manipulate a list by using different in-built function
+
+
+**Thoughts:** "Stop not when you're tired, stop when you're done" -
+
+**Link to work:** https://replit.com/@TamalMajumdar/23-Day-23-List-Methods#main.py
+
+
+### Day 24: Feb 3, 2024, Saturday
+
+**Today's Progress:**
+1) learned about tuple today and tuple indexes. 
+
+
+**Thoughts:** "getting hard" -DG
+
+**Link to work:** https://replit.com/@TamalMajumdar/24-Day24-Introduction-to-Tuples#main.py
+
+
