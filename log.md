@@ -310,3 +310,11 @@
 **Link to work:** https://replit.com/@TamalMajumdar/24-Day24-Introduction-to-Tuples#main.py
 
 
+### Day 25: Feb 4, 2024, Sunday
+
+**Today's Progress:**
+1) Learned how to manipulate a tuple ( obviously indirectly 😂 )
+
+**Thoughts:** Stay hard and enjoy the journey.
+
+**Link to work:** https://replit.com/@TamalMajumdar/25-Day25-Operations-on-Tuples
