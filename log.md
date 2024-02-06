@@ -318,3 +318,64 @@
 **Thoughts:** Stay hard and enjoy the journey.
 
 **Link to work:** https://replit.com/@TamalMajumdar/25-Day25-Operations-on-Tuples
+
+
+### Day 26: Feb 5, 2024, Monday
+
+**Today's Progress:**
+1) Today Harry gave the solution of Day 15's exercise solution which I have already done before 😍
+
+
+**Thoughts:** Try to being Disciplined 🙏
+
+**Link to work:** https://replit.com/@TamalMajumdar/26-Day-26-Exercise-2-Solution#main.py
+
+
+### Day 27: Feb 6, 2024, Tuesday
+
+**Today's Progress:**
+1) Today I solved this Exercise challege given by Harry :
+
+  # Create a program capable of displaying questions to the user like KBC
+
+questions = ["What is the capital of India?", "Who is the prime minister of India?", "What is the currency of India"]
+answers = ["Delhi", "Narendra Modi", "Rupee"]
+
+print("Welcome to Kaun Banega Crorepati")
+
+name = input("Enter your first name: ")
+print("Hello", name.capitalize(), "Welcome to KBC")
+print("Here is your first question\n")
+
+print(questions[0])
+print("Options are: a) Kolkata b) Delhi c) Mumbai d) Chennai")
+ans = input("Enter your answer: ")
+if ans == answers[0]:
+  print("Congratulations! You have won Rs. 1000")
+  print("welcome to the round 2--\n")
+  print(questions[1])
+  print("Options are: a) Narendra Modi b) Rahul Gandhi c) Akhilesh Yadav d) Amit Shah")
+  ans = input("Enter your answer: ")
+  if ans == answers[1]:
+    print("Congratulations! You have won Rs. 2000")
+    print("welcome to the round 3--\n")
+    print(questions[2])
+    print("Options are: a) Dollar b) Euro c) Rupee d) Pound")
+    ans = input("Enter your answer: ")
+    if ans == answers[2]:
+      print("100 crore")
+    else:
+      print("You have won Rs. 2000")
+
+  else:
+    print("Sorry! You have lost the game")
+  
+else:
+  print("You've eliminated! better luck next time")
+
+
+**Thoughts:** Loved the Challenges. I just love to be challenged and grow out of it.
+
+**Link to work:** https://replit.com/@TamalMajumdar/27-Day27-Exercise-3#main.py
+
+
