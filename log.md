@@ -265,7 +265,6 @@
 **Link to work:** https://replit.com/@TamalMajumdar/20-Day20-Functions-1
 
 
-
 ### Day 21: January 31, 2024, Wednesday
 
 **Today's Progress:**
@@ -377,5 +376,16 @@ else:
 **Thoughts:** Loved the Challenges. I just love to be challenged and grow out of it.
 
 **Link to work:** https://replit.com/@TamalMajumdar/27-Day27-Exercise-3#main.py
+
+
+### Day 28: Feb 7, 2024, Monday
+
+Today's Progress:
+1) Today i have learned about amazing f'string which was introduced in python 3.6
+
+
+Thoughts: Need to solve more problems on this journey. so starting to solve 1 problem/day. That's it. 
+
+Link to work: https://replit.com/@TamalMajumdar/28-Day28-f-strings-1#main.py
 
 
