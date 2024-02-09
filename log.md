@@ -378,7 +378,7 @@ else:
 **Link to work:** https://replit.com/@TamalMajumdar/27-Day27-Exercise-3#main.py
 
 
-### Day 28: Feb 7, 2024, Monday
+### Day 28: Feb 7, 2024, wednesday
 
 Today's Progress:
 1) Today i have learned about amazing f'string which was introduced in python 3.6
@@ -389,3 +389,31 @@ Thoughts: Need to solve more problems on this journey. so starting to solve 1 pr
 Link to work: https://replit.com/@TamalMajumdar/28-Day28-f-strings-1#main.py
 
 
+### Day 29: Feb 8, 2024, Thusday
+
+Today's Progress:
+1) Today I have learned about doc-string, PEP-8.
+
+Thoughts: Consistency is key.
+
+Link to work: https://replit.com/@TamalMajumdar/29-Day29-Docstrings-1
+
+
+### Day 30: Feb 9, 2024, Friday
+
+Today's Progress:
+1) learned about Recursion today.
+
+Thoughts: success demands commitment, persistence and consistency.
+
+Link to work: https://replit.com/@TamalMajumdar/30-Day30-Recursion-1#main.py
+
+
+### Day 31: Feb 10, 2024, Saturday
+
+Today's Progress:
+
+
+Thoughts:
+
+Link to work:
