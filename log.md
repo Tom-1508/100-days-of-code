@@ -412,8 +412,8 @@ Link to work: https://replit.com/@TamalMajumdar/30-Day30-Recursion-1#main.py
 ### Day 31: Feb 10, 2024, Saturday
 
 Today's Progress:
+1) Today i have been introduced with set.
 
+Thoughts: Just keeping the momentum.
 
-Thoughts:
-
-Link to work:
+Link to work: https://replit.com/@TamalMajumdar/31-Day31-Sets-1
