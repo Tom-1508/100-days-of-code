@@ -417,3 +417,31 @@ Today's Progress:
 Thoughts: Just keeping the momentum.
 
 Link to work: https://replit.com/@TamalMajumdar/31-Day31-Sets-1
+
+
+🌟 Day 32: Feb 11, 2024, Sunday 🌟
+
+📚 Today's Progress: Explored different kinds of set methods. It's fascinating to see how versatile they can be!
+
+💭 Thoughts: Keep going! Every bit of progress counts.
+
+🔗 Link to work: Day 32 - https://replit.com/@TamalMajumdar/32-Day32-Set-Methods-1#main.py
+
+
+🌟 Day 33: Feb 12, 2024, Monday 🌟
+
+📚 Today's Progress: Dived into the realm of dictionaries. There's so much to learn, but it's exciting!
+
+💭 Thoughts: Things are going smoothly. Consistency is key.
+
+🔗 Link to work: Day 33 - https://replit.com/@TamalMajumdar/33-Day-33-Dictionary-1#main.py #100DaysOfCode
+
+
+### Day 34: Feb 13, 2024, Tuesdayday
+
+Today's Progress:
+1) learned about different dictionary methods.
+
+Thoughts: "Success requires work, not just words."	-- Vidal Sassoon
+
+Link to work: https://replit.com/@TamalMajumdar/34-Day34-Dictionary-Methods-1#main.py
