@@ -445,3 +445,13 @@ Today's Progress:
 Thoughts: "Success requires work, not just words."	-- Vidal Sassoon
 
 Link to work: https://replit.com/@TamalMajumdar/34-Day34-Dictionary-Methods-1#main.py
+
+
+### Day 35: Feb 14, 2024, wednesday
+
+Today's Progress:
+1) today i learned about else in loops, which is being asked in interview extensively.
+
+Thoughts: keep moving forward, no matter what happens!
+
+Link to work: https://replit.com/@TamalMajumdar/35-Day-35-For-loop-with-else
