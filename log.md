@@ -455,3 +455,14 @@ Today's Progress:
 Thoughts: keep moving forward, no matter what happens!
 
 Link to work: https://replit.com/@TamalMajumdar/35-Day-35-For-loop-with-else
+
+
+### Day 36: Feb 15, 2024, Thursday
+
+Today's Progress:
+1)learned about exception handling.
+
+Thoughts: 
+"Believe you can and you're halfway there." - Theodore Roosevelt
+
+Link to work: https://replit.com/@TamalMajumdar/36-Day36-Exception-Handling
