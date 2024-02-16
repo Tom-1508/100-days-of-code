@@ -466,3 +466,13 @@ Thoughts:
 "Believe you can and you're halfway there." - Theodore Roosevelt
 
 Link to work: https://replit.com/@TamalMajumdar/36-Day36-Exception-Handling
+
+
+### Day 37: Feb 16, 2024, Friday
+
+Today's Progress:
+1) Today i learned about finally clause in the exception handling.
+
+Thoughts: "keep going without thinking about the result"
+
+Link to work: https://replit.com/@TamalMajumdar/37-Day37-Finally-keyword-1
