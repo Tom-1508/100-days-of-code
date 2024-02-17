@@ -476,3 +476,13 @@ Today's Progress:
 Thoughts: "keep going without thinking about the result"
 
 Link to work: https://replit.com/@TamalMajumdar/37-Day37-Finally-keyword-1
+
+
+### Day 38: Feb 17, 2024, Saturday
+
+Today's Progress:
+1) today i learned about how to raise custom errors. done a quick program.
+
+Thoughts: " keep going. No matter what happens" 
+
+Link to work: https://replit.com/@TamalMajumdar/38-Day38-Custom-Errors
