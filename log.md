@@ -486,3 +486,16 @@ Today's Progress:
 Thoughts: " keep going. No matter what happens" 
 
 Link to work: https://replit.com/@TamalMajumdar/38-Day38-Custom-Errors
+
+
+### Day 39,40: Feb 18, 2024, Sunday
+
+Today's Progress:
+1) updated the "kaun banega crorepati" quiz solution with harry, it's now more complex
+2) Exercise 4: build a program to code a secret code language. 
+
+Thoughts:
+
+Link to work: 
+1)https://replit.com/@TamalMajumdar/39-Day39-Exercise-3-Solution
+2) https://replit.com/@TamalMajumdar/40-Day40-Exercise-4
