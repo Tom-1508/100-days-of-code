@@ -494,8 +494,28 @@ Today's Progress:
 1) updated the "kaun banega crorepati" quiz solution with harry, it's now more complex
 2) Exercise 4: build a program to code a secret code language. 
 
-Thoughts:
+Thoughts: just keeping the momentum right.
 
 Link to work: 
 1)https://replit.com/@TamalMajumdar/39-Day39-Exercise-3-Solution
 2) https://replit.com/@TamalMajumdar/40-Day40-Exercise-4
+
+
+### Day 41: Feb 19, 2024, Monday
+
+Today's Progress:
+1) learned about short hand if else. It really great for a python developer.
+
+Thoughts: just doing what needed to be done. That's it.
+
+Link to work: https://replit.com/@TamalMajumdar/41-Day41-Short-Hand-if-else#main.py
+
+
+### Day 42: Feb 20, 2024, Tuesday
+
+Today's Progress:
+
+
+Thoughts:
+
+Link to work:
