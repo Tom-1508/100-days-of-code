@@ -514,8 +514,8 @@ Link to work: https://replit.com/@TamalMajumdar/41-Day41-Short-Hand-if-else#main
 ### Day 42: Feb 20, 2024, Tuesday
 
 Today's Progress:
+1) I have learned about enumerate function today(built in function)  that allows you to loop over a sequence (such as a list, tuple, or string) and get the index and value of each element in the sequence at the same time.
 
+Thoughts: Becoming the best I can be 💪
 
-Thoughts:
-
-Link to work:
+Link to work: https://replit.com/@TamalMajumdar/42-Day-42-Enumerate-1
