@@ -519,3 +519,13 @@ Today's Progress:
 Thoughts: Becoming the best I can be 💪
 
 Link to work: https://replit.com/@TamalMajumdar/42-Day-42-Enumerate-1
+
+
+### Day 43: Feb 21, 2024, Wednesday
+
+Today's Progress:
+1) Today I have introduced about Virtual environment. Got some basic idea about it.
+
+Thoughts: keep going.
+
+Link to work: https://replit.com/@TamalMajumdar/43-Day43-Virtual-Environment-1
