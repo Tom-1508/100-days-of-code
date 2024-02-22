@@ -529,3 +529,15 @@ Today's Progress:
 Thoughts: keep going.
 
 Link to work: https://replit.com/@TamalMajumdar/43-Day43-Virtual-Environment-1
+
+
+### Day 44: Feb 22, 2024, Thusday
+
+Today's Progress:
+1) Today i learned about how importing in python works.
+
+Thoughts: I am really committed to my goal till now. Feeling proud about myself. Grateful.
+
+Link to work: https://replit.com/@TamalMajumdar/44-Day44-How-import-works#main.py
+
+
