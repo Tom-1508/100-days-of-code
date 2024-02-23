@@ -541,3 +541,11 @@ Thoughts: I am really committed to my goal till now. Feeling proud about myself.
 Link to work: https://replit.com/@TamalMajumdar/44-Day44-How-import-works#main.py
 
 
+### Day 45: Feb 23, 2024, Friday
+
+Today's Progress:
+1) today i learned about the importance of using "if __name__ = __main__".
+
+Thoughts: EAT --> SLEEP --> CODE --> REPEAT.
+
+Link to work: https://replit.com/@TamalMajumdar/45-Day45-if-name-main-in-Python
