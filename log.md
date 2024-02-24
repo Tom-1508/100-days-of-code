@@ -549,3 +549,13 @@ Today's Progress:
 Thoughts: EAT --> SLEEP --> CODE --> REPEAT.
 
 Link to work: https://replit.com/@TamalMajumdar/45-Day45-if-name-main-in-Python
+
+
+### Day 46: Feb 24, 2024, Saturday
+
+Today's Progress:
+1) Today i learned about basics of os module in python. 
+
+Thoughts: keep working hard.
+
+Link to work: https://replit.com/@TamalMajumdar/46-Day-46-os-Module-1
