@@ -559,3 +559,13 @@ Today's Progress:
 Thoughts: keep working hard.
 
 Link to work: https://replit.com/@TamalMajumdar/46-Day-46-os-Module-1
+
+
+### Day 47: Feb 25, 2024, Sunday
+
+Today's Progress:
+1) today i have learned how to solve the secret code language problem.
+
+Thoughts: Just try to learn things in more efficient way.
+
+Link to work: https://replit.com/@TamalMajumdar/47-Day47-Exercise-4-Solution-1
