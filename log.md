@@ -569,3 +569,23 @@ Today's Progress:
 Thoughts: Just try to learn things in more efficient way.
 
 Link to work: https://replit.com/@TamalMajumdar/47-Day47-Exercise-4-Solution-1
+
+
+### Day 48: Feb 26, 2024, Monday
+
+Today's Progress:
+1) Leaned about local and global variables.
+
+Thoughts: just trying hard to maintain the momentum 💪
+
+Link to work: https://replit.com/@TamalMajumdar/48-Day48-local-vs-global-variables#main.py
+
+
+### Day 49: Feb 27, 2024, Tuesday
+
+Today's Progress:
+1) Learned about File I/O or file handling.
+
+Thoughts: more way to go. Lessss go!
+
+Link to work: https://replit.com/@TamalMajumdar/49-Day49-File-IO-1
