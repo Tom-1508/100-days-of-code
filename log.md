@@ -589,3 +589,13 @@ Today's Progress:
 Thoughts: more way to go. Lessss go!
 
 Link to work: https://replit.com/@TamalMajumdar/49-Day49-File-IO-1
+
+
+### Day 50: Feb 28, 2024, Wednesday
+
+Today's Progress:
+1) Today I have learned about more methods to handle files through Python.
+
+Thoughts: 1) 2/4th of #100daysofcode successfullly done. Proud moment for me. Grateful 🙏❤️
+
+Link to work: https://replit.com/@TamalMajumdar/50-Day50-read-readlines-and-other-methods#main.py
