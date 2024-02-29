@@ -599,3 +599,23 @@ Today's Progress:
 Thoughts: 1) 2/4th of #100daysofcode successfullly done. Proud moment for me. Grateful 🙏❤️
 
 Link to work: https://replit.com/@TamalMajumdar/50-Day50-read-readlines-and-other-methods#main.py
+
+
+### Day 51: Feb 29, 2024, Thursday
+
+Today's Progress:
+1) learned about seek() and tell().
+
+Thoughts: getting the momentum right.
+
+Link to work: https://replit.com/@TamalMajumdar/51-Day51-seek-and-tell-functions
+
+
+### Day 52: 01 march, 2024, Friday
+
+Today's Progress:
+1) Today I learned about Lambda function.
+
+Thoughts: keeep moving forward
+
+Link to work: https://replit.com/@TamalMajumdar/52-Day52-Lambda-Functions#main.py
