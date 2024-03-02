@@ -619,3 +619,23 @@ Today's Progress:
 Thoughts: keeep moving forward
 
 Link to work: https://replit.com/@TamalMajumdar/52-Day52-Lambda-Functions#main.py
+
+
+### Day 53: 02 march, 2024, Saturday
+
+Today's Progress:
+1) Learned about Map, Filter and reduce ( v.v Important )
+
+Thoughts: Keep moving forward.
+
+Link to work: https://replit.com/@TamalMajumdar/53-Day53-Map-Filter-and-Reduce
+
+
+### Day 54: 03 march, 2024, Sunday
+
+Today's Progress: 
+1) Today I learned about 'is' vs '==' in Python.
+
+Thoughts: No One can stop me, I am unstoppable.
+
+Link to work: https://replit.com/@TamalMajumdar/54-Day54-is-vs-in-Python
