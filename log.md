@@ -639,3 +639,13 @@ Today's Progress:
 Thoughts: No One can stop me, I am unstoppable.
 
 Link to work: https://replit.com/@TamalMajumdar/54-Day54-is-vs-in-Python
+
+
+### Day 55: 04 march, 2024, Monday
+
+Today's Progress:
+1) Exercise I have to do : Snake Water Gun
+
+Thoughts: will be fun , I guess.
+
+Link to work: https://replit.com/@TamalMajumdar/55-Day55-Exercise-5
