@@ -649,3 +649,13 @@ Today's Progress:
 Thoughts: will be fun , I guess.
 
 Link to work: https://replit.com/@TamalMajumdar/55-Day55-Exercise-5
+
+
+### Day 56: 05 march, 2024, Tuesday
+
+Today's Progress:
+1) Today I have been introduced to object oriented programming.
+
+Thoughts: Excited to learn about OOPs.
+
+Link to work: https://replit.com/@TamalMajumdar/56-Day56-Intro-to-oops
