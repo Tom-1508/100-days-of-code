@@ -659,3 +659,13 @@ Today's Progress:
 Thoughts: Excited to learn about OOPs.
 
 Link to work: https://replit.com/@TamalMajumdar/56-Day56-Intro-to-oops
+
+
+### Day 57: 06 march, 2024, Wednesday
+
+Today's Progress:
+1) Today I implemented the Python Class and Objects in code.
+
+Thoughts: keep going.
+
+Link to work: https://replit.com/@TamalMajumdar/57-Day57-Classes-and-Objects
