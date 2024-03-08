@@ -671,7 +671,7 @@ Thoughts: keep going.
 Link to work: https://replit.com/@TamalMajumdar/57-Day57-Classes-and-Objects
 
 
-### Day 57: 07 march, 2024, Thursday
+### Day 58: 07 march, 2024, Thursday
 
 Today's Progress:
 1) Today I learned about Constructor in class and object.
@@ -679,3 +679,13 @@ Today's Progress:
 Thoughts: "The journey is becoming tougher, I am tougher than this 💪"
 
 Link to work: https://replit.com/@TamalMajumdar/58-Day58-Constructors
+
+
+### Day 59: 08 march, 2024, Friday
+
+Today's Progress:
+1) Today I learned about decorators in OOPs.
+
+Thoughts: Keeping the momentum Up.
+
+Link to work: https://replit.com/@TamalMajumdar/59-Day-59-Decorators-in-Python#main.py
