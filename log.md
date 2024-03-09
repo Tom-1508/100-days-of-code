@@ -689,3 +689,13 @@ Today's Progress:
 Thoughts: Keeping the momentum Up.
 
 Link to work: https://replit.com/@TamalMajumdar/59-Day-59-Decorators-in-Python#main.py
+
+
+### Day 60: 09 march, 2024, Saturday
+
+Today's Progress:
+1) Today I learned about Getter and Setter.
+
+Thoughts: Tough day but I managed to do it. Proud 💪.
+
+Link to work: https://replit.com/@TamalMajumdar/60-Day-60-Getters-and-Setters#main.py
